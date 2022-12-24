@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @berkecapci
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on programing
+- 📫 How to reach me: berkecapci@gmail.com
